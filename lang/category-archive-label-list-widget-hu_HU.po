@@ -1,0 +1,105 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Label list for Categories and Archives\n"
+"POT-Creation-Date: 2015-09-17 07:18+0100\n"
+"PO-Revision-Date: 2015-09-22 14:02+0100\n"
+"Last-Translator: \n"
+"Language-Team: MVM Trade <marek.vrtich@mvmtrade.sk>\n"
+"Language: Hungarian\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.5.5\n"
+"X-Poedit-KeywordsList: __;gettext;gettext_noop;_;_e\n"
+"X-Poedit-Basepath: ../\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: category-archive-label-list-widget.php:36
+msgid "Label list for Categories and Archives"
+msgstr "Címkés számláló kategóriához és archívumhoz"
+
+#: category-archive-label-list-widget.php:39
+msgid "Widget for categories and archives with modern labels in the list"
+msgstr "Kategóriát és archívumot modern címkével megjelenítő widget  "
+
+#: category-archive-label-list-widget.php:245
+msgid "Title:"
+msgstr "Cím:"
+
+#: category-archive-label-list-widget.php:253
+msgid "Select type of posts:"
+msgstr "Cikk típusának kiválasztása:"
+
+#: category-archive-label-list-widget.php:257
+msgid "Archive"
+msgstr "Archívum"
+
+#: category-archive-label-list-widget.php:258
+msgid "Categories"
+msgstr "Kategória"
+
+#: category-archive-label-list-widget.php:265
+msgid "Select period:"
+msgstr "Periódus kiválasztása:"
+
+#: category-archive-label-list-widget.php:269
+msgid "Daily"
+msgstr "Napi"
+
+#: category-archive-label-list-widget.php:270
+msgid "Monthly"
+msgstr "Havi"
+
+#: category-archive-label-list-widget.php:271
+msgid "Yearly"
+msgstr "Éves"
+
+#: category-archive-label-list-widget.php:278
+msgid "Order by post count:"
+msgstr "Listázás cikkek száma alapján:"
+
+#: category-archive-label-list-widget.php:286
+msgid "Sort from low to high:"
+msgstr "Sorba rendezés legkevesebbtől kezdve:"
+
+#: category-archive-label-list-widget.php:295
+msgid "Number of lines to show:"
+msgstr "Megjelenítendő sorok száma:"
+
+#: category-archive-label-list-widget.php:307
+msgid "Use own styles"
+msgstr "Saját stílusok használata"
+
+#: category-archive-label-list-widget.php:317
+msgid "Title font size:"
+msgstr "Cím betűmérete:"
+
+#: category-archive-label-list-widget.php:326
+msgid "Title color:"
+msgstr "Cím színe:"
+
+#: category-archive-label-list-widget.php:336
+msgid "Links font size:"
+msgstr "Hivatkozások betűmérete:"
+
+#: category-archive-label-list-widget.php:345
+msgid "Links color:"
+msgstr "Hivatkozások színe:"
+
+#: category-archive-label-list-widget.php:355
+msgid "Label font size:"
+msgstr "Címke betűmérete:"
+
+#: category-archive-label-list-widget.php:364
+msgid "Label color:"
+msgstr "Címke betűszíne:"
+
+#: category-archive-label-list-widget.php:373
+msgid "Label background color:"
+msgstr "Címke háttérszíne:"
+
+#: category-archive-label-list-widget.php:382
+msgid "Custom CSS:"
+msgstr "Saját CSS:"

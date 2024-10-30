@@ -1,0 +1,105 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Label list for Categories and Archives\n"
+"POT-Creation-Date: 2015-09-17 07:18+0100\n"
+"PO-Revision-Date: 2015-09-17 08:38+0100\n"
+"Last-Translator: \n"
+"Language-Team: MVM Trade <marek.vrtich@mvmtrade.sk>\n"
+"Language: Slovak\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.5.5\n"
+"X-Poedit-KeywordsList: __;gettext;gettext_noop;_;_e\n"
+"X-Poedit-Basepath: ../\n"
+"Plural-Forms: nplurals=3; plural=(n==1) ? 0 : (n>=2 && n<=4) ? 1 : 2;\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: category-archive-label-list-widget.php:36
+msgid "Label list for Categories and Archives"
+msgstr "Štítkový zoznam pre kategórie a archív"
+
+#: category-archive-label-list-widget.php:39
+msgid "Widget for categories and archives with modern labels in the list"
+msgstr "Moderný zoznam pre kategórie a archívy"
+
+#: category-archive-label-list-widget.php:245
+msgid "Title:"
+msgstr "Nadpis:"
+
+#: category-archive-label-list-widget.php:253
+msgid "Select type of posts:"
+msgstr "Vybrať typ článkov:"
+
+#: category-archive-label-list-widget.php:257
+msgid "Archive"
+msgstr "Archív"
+
+#: category-archive-label-list-widget.php:258
+msgid "Categories"
+msgstr "Kategórie"
+
+#: category-archive-label-list-widget.php:265
+msgid "Select period:"
+msgstr "Vybrať interval:"
+
+#: category-archive-label-list-widget.php:269
+msgid "Daily"
+msgstr "Denný"
+
+#: category-archive-label-list-widget.php:270
+msgid "Monthly"
+msgstr "Mesačný"
+
+#: category-archive-label-list-widget.php:271
+msgid "Yearly"
+msgstr "Ročný"
+
+#: category-archive-label-list-widget.php:278
+msgid "Order by post count:"
+msgstr "Zoradiť podľa počtu článkov:"
+
+#: category-archive-label-list-widget.php:286
+msgid "Sort from low to high:"
+msgstr "Zoradiť od najmenej po najviac:"
+
+#: category-archive-label-list-widget.php:295
+msgid "Number of lines to show:"
+msgstr "Zobrazovaný počet riadkov:"
+
+#: category-archive-label-list-widget.php:307
+msgid "Use own styles"
+msgstr "Použiť vlastné štýly"
+
+#: category-archive-label-list-widget.php:317
+msgid "Title font size:"
+msgstr "Veľkosť písma pre nadpis:"
+
+#: category-archive-label-list-widget.php:326
+msgid "Title color:"
+msgstr "Farba nadpisu:"
+
+#: category-archive-label-list-widget.php:336
+msgid "Links font size:"
+msgstr "Veľkosť písma pre odkazy:"
+
+#: category-archive-label-list-widget.php:345
+msgid "Links color:"
+msgstr "Farba odkazov:"
+
+#: category-archive-label-list-widget.php:355
+msgid "Label font size:"
+msgstr "Veľkosť písma v štítku:"
+
+#: category-archive-label-list-widget.php:364
+msgid "Label color:"
+msgstr "Farba písma v štítku:"
+
+#: category-archive-label-list-widget.php:373
+msgid "Label background color:"
+msgstr "Farba pozadia pre štítok:"
+
+#: category-archive-label-list-widget.php:382
+msgid "Custom CSS:"
+msgstr "Vlastné CSS:"
